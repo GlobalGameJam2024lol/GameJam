@@ -1,0 +1,57 @@
+[+] Containers:
+ |- [+] Container: /Game/NewMap
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:4A6A01EE4DDFC553EF7D19B05A15822C BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:None SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:5C824D4746A676935BD53E8CE387A081 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_0068EBB8488D89D301_1148802145 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-113.720 Y=28.067 Z=1021.000), Max=(X=-113.720 Y=28.067 Z=1021.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:654FAD1746E52B31F754438588189DD6 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_0068EBB8488D89D301_1148801144 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-113.720 Y=28.067 Z=691.000), Max=(X=-113.720 Y=28.067 Z=691.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:B70FDE7844AEEA25570022A70C29E17B BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_0068EBB8488D89D301_1148800143 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:E3BF0BFF4E0B67B6CBA495A6AD280F14 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_0068EBB8488D89D301_1148799142 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-113.720 Y=28.067 Z=821.000), Max=(X=-113.720 Y=28.067 Z=821.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:5C824D4746A676935BD53E8CE387A081 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_0068EBB8488D89D301_1148802145 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-113.720 Y=28.067 Z=1021.000), Max=(X=-113.720 Y=28.067 Z=1021.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:4A6A01EE4DDFC553EF7D19B05A15822C BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:None SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:E3BF0BFF4E0B67B6CBA495A6AD280F14 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_0068EBB8488D89D301_1148799142 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-113.720 Y=28.067 Z=821.000), Max=(X=-113.720 Y=28.067 Z=821.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:654FAD1746E52B31F754438588189DD6 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_0068EBB8488D89D301_1148801144 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-113.720 Y=28.067 Z=691.000), Max=(X=-113.720 Y=28.067 Z=691.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:B70FDE7844AEEA25570022A70C29E17B BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_0068EBB8488D89D301_1148800143 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 0x0000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/NewMap
+----------------------------------------------------------------------------------------------------------------
+NashmeTest - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+Always loaded Actor Count: 81 
+
+----------------------------------------------------------------------------------------------------------------
+NashmeTest - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    1 | Cell Size   12800 | Actor Count    5 (100.0%)
+
+[+] Content of Grid Level 0
+ |- [+] Content of Cell MainGrid_L0_X0_Y0
+ |   |- Actor Count: 5
+ |   |- Actor Path: /Temp/Game/UEDPIE_0_NewMap_LevelInstance_7a48299c38c01358_1.NewMap:PersistentLevel.SkyAtmosphere_UAID_0068EBB8488D89D301_1148802145
+ |   |- Actor Package: /Game/__ExternalActors__/NewMap/0/5O/7FLYR2C5R32OFU9IRIUENC
+ |   |- Actor Path: /Temp/Game/UEDPIE_0_NewMap_LevelInstance_7a48299c38c01358_1.NewMap:PersistentLevel.WorldDataLayers
+ |   |- Actor Package: /Game/__ExternalActors__/NewMap/2/J7/QO5TQORWCXORVK1051S8GH
+ |   |- Actor Path: /Temp/Game/UEDPIE_0_NewMap_LevelInstance_7a48299c38c01358_1.NewMap:PersistentLevel.VolumetricCloud_UAID_0068EBB8488D89D301_1148799142
+ |   |- Actor Package: /Game/__ExternalActors__/NewMap/6/CF/O5UK81G30D3QJKZ9IDSM36
+ |   |- Actor Path: /Temp/Game/UEDPIE_0_NewMap_LevelInstance_7a48299c38c01358_1.NewMap:PersistentLevel.SkyLight_UAID_0068EBB8488D89D301_1148801144
+ |   |- Actor Package: /Game/__ExternalActors__/NewMap/D/1Y/SQ9J9QJRKLO6WNZTY2AJIC
+ |   |- Actor Path: /Temp/Game/UEDPIE_0_NewMap_LevelInstance_7a48299c38c01358_1.NewMap:PersistentLevel.DirectionalLight_UAID_0068EBB8488D89D301_1148800143
+ |   |- Actor Package: /Game/__ExternalActors__/NewMap/D/A7/JU3TQAXQZOPOHBF7QF0LHD
+
