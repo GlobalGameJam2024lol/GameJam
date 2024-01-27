@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/V8250114/Documents/GitHub/GameJam/MyProject/Content/Sara_Things/SaraDevLEvel.umap",
+				"C:/Users/V8250114/Documents/GitHub/GameJam/MyProject/Content/FirstPerson/Blueprints/BP_Fruit1.uasset",
+				"C:/Users/V8250114/Documents/GitHub/GameJam/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/V8250114/Documents/GitHub/GameJam/MyProject/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
 				"C:/Users/V8250114/Documents/Unreal Projects/MyProject/Content/StarterContent/Audio/Collapse01.uasset"
 			]
 		}
